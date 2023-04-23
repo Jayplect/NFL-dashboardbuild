@@ -1,0 +1,33 @@
+,id,shortDisplayName,nickname,location,abbreviation,displayName,isActive,isAllStar,logos,OTLosses,OTWins,avgPointsAgainst,avgPointsFor,divisionWinPercent,gamesPlayed,losses,ties,wins,winPercent,points
+0,1,Falcons,Falcons,Atlanta,ATL,Atlanta Falcons,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/atl.png,0.0,1.0,22.705883,21.470589,0.33333334,17.0,10.0,2.0,0.4117647,0.0,-21.0
+1,2,Bills,Bills,Buffalo,BUF,Buffalo Bills,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/buf.png,1.0,0.0,17.875,28.4375,0.6666667,16.0,3.0,7.0,0.8125,0.0,169.0
+2,3,Bears,Bears,Chicago,CHI,Chicago Bears,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/chi.png,0.0,0.0,27.235294,19.17647,0.0,17.0,14.0,-10.0,0.1764706,0.0,-137.0
+3,4,Bengals,Bengals,Cincinnati,CIN,Cincinnati Bengals,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/cin.png,1.0,0.0,20.125,26.125,0.5,16.0,4.0,8.0,0.75,0.0,96.0
+4,5,Browns,Browns,Cleveland,CLE,Cleveland Browns,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/cle.png,0.0,1.0,22.411764,21.235294,0.5,17.0,10.0,-1.0,0.4117647,0.0,-20.0
+5,6,Cowboys,Cowboys,Dallas,DAL,Dallas Cowboys,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/dal.png,2.0,0.0,20.117647,27.470589,0.6666667,17.0,5.0,-1.0,0.7058824,0.0,125.0
+6,7,Broncos,Broncos,Denver,DEN,Denver Broncos,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/den.png,3.0,0.0,21.117647,16.882353,0.16666667,17.0,12.0,1.0,0.29411766,0.0,-72.0
+7,8,Lions,Lions,Detroit,DET,Detroit Lions,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/det.png,0.0,0.0,25.117647,26.647058,0.8333333,17.0,8.0,2.0,0.5294118,0.0,26.0
+8,9,Packers,Packers,Green Bay,GB,Green Bay Packers,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/gb.png,0.0,2.0,21.82353,21.764706,0.5,17.0,9.0,-1.0,0.47058824,0.0,-1.0
+9,10,Titans,Titans,Tennessee,TEN,Tennessee Titans,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/ten.png,1.0,0.0,21.117647,17.529411,0.5,17.0,10.0,-7.0,0.4117647,0.0,-61.0
+10,11,Colts,Colts,Indianapolis,IND,Indianapolis Colts,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/ind.png,1.0,1.0,25.117647,17.0,0.25,17.0,12.0,-7.0,0.2647059,1.0,-138.0
+11,12,Chiefs,Chiefs,Kansas City,KC,Kansas City Chiefs,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/kc.png,0.0,2.0,21.705883,29.17647,1.0,17.0,3.0,5.0,0.8235294,0.0,127.0
+12,13,Raiders,Raiders,Las Vegas,LV,Las Vegas Raiders,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/lv.png,2.0,2.0,24.588236,23.235294,0.5,17.0,11.0,-3.0,0.3529412,0.0,-23.0
+13,14,Rams,Rams,Los Angeles,LAR,Los Angeles Rams,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/lar.png,1.0,0.0,22.588236,18.058823,0.16666667,17.0,12.0,-2.0,0.29411766,0.0,-77.0
+14,15,Dolphins,Dolphins,Miami,MIA,Miami Dolphins,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/mia.png,0.0,0.0,23.470589,23.352942,0.5,17.0,8.0,1.0,0.5294118,0.0,-2.0
+15,16,Vikings,Vikings,Minnesota,MIN,Minnesota Vikings,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/min.png,0.0,2.0,25.117647,24.941177,0.6666667,17.0,4.0,1.0,0.7647059,0.0,-3.0
+16,17,Patriots,Patriots,New England,NE,New England Patriots,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/ne.png,1.0,0.0,20.411764,21.411764,0.5,17.0,9.0,-1.0,0.47058824,0.0,17.0
+17,18,Saints,Saints,New Orleans,NO,New Orleans Saints,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/no.png,0.0,0.0,20.294117,19.411764,0.33333334,17.0,10.0,-1.0,0.4117647,0.0,-15.0
+18,19,Giants,Giants,New York,NYG,New York Giants,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png,0.0,0.0,21.82353,21.470589,0.25,17.0,7.0,-1.0,0.5588235,1.0,-6.0
+19,20,Jets,Jets,New York,NYJ,New York Jets,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png,0.0,0.0,18.588236,17.411764,0.33333334,17.0,10.0,-6.0,0.4117647,0.0,-20.0
+20,21,Eagles,Eagles,Philadelphia,PHI,Philadelphia Eagles,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/phi.png,0.0,0.0,20.235294,28.058823,0.6666667,17.0,3.0,1.0,0.8235294,0.0,133.0
+21,22,Cardinals,Cardinals,Arizona,ARI,Arizona Cardinals,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/ari.png,1.0,1.0,26.411764,20.0,0.16666667,17.0,13.0,-7.0,0.23529412,0.0,-109.0
+22,23,Steelers,Steelers,Pittsburgh,PIT,Pittsburgh Steelers,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/pit.png,0.0,1.0,20.352942,18.117647,0.5,17.0,8.0,4.0,0.5294118,0.0,-38.0
+23,24,Chargers,Chargers,Los Angeles,LAC,Los Angeles Chargers,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/lac.png,0.0,1.0,22.588236,23.0,0.33333334,17.0,7.0,-1.0,0.5882353,0.0,7.0
+24,25,49ers,49ers,San Francisco,SF,San Francisco 49ers,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/sf.png,0.0,1.0,16.294117,26.470589,1.0,17.0,4.0,10.0,0.7647059,0.0,173.0
+25,26,Seahawks,Seahawks,Seattle,SEA,Seattle Seahawks,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/sea.png,1.0,1.0,23.588236,23.941177,0.6666667,17.0,8.0,2.0,0.5294118,0.0,6.0
+26,27,Buccaneers,Buccaneers,Tampa Bay,TB,Tampa Bay Buccaneers,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/tb.png,1.0,1.0,21.058823,18.411764,0.6666667,17.0,9.0,-1.0,0.47058824,0.0,-45.0
+27,28,Commanders,Commanders,Washington,WSH,Washington Commanders,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png,0.0,0.0,20.17647,18.882353,0.41666666,17.0,8.0,1.0,0.5,1.0,-22.0
+28,29,Panthers,Panthers,Carolina,CAR,Carolina Panthers,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/car.png,1.0,0.0,22.0,20.411764,0.6666667,17.0,10.0,1.0,0.4117647,0.0,-27.0
+29,30,Jaguars,Jaguars,Jacksonville,JAX,Jacksonville Jaguars,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/jax.png,0.0,1.0,20.588236,23.764706,0.6666667,17.0,8.0,5.0,0.5294118,0.0,54.0
+30,33,Ravens,Ravens,Baltimore,BAL,Baltimore Ravens,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/bal.png,0.0,0.0,18.529411,20.588236,0.5,17.0,7.0,-2.0,0.5882353,0.0,35.0
+31,34,Texans,Texans,Houston,HOU,Houston Texans,True,False,https://a.espncdn.com/i/teamlogos/nfl/500/hou.png,1.0,0.0,24.705883,17.0,0.5833333,17.0,13.0,1.0,0.20588236,1.0,-131.0

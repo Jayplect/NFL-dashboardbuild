@@ -1,0 +1,35 @@
+Team_id,Abbreviation,Team_Name,Venue_id,Team_Venue,Venue_City,Venue_State,Venue_ZipCode,Venue_Capacity,Venue_Grass,Venue_Indoor,Latitude,Longitude
+1,ATL,Atlanta Falcons,5348,Mercedes-Benz Stadium,Atlanta,GA,30313,75000,False,True,33.76293171583055,-84.39606140301004
+2,BUF,Buffalo Bills,3883,Highmark Stadium,Orchard Park,NY,14127,71621,False,False,42.76375798202035,-78.75026984439712
+3,CHI,Chicago Bears,3933,Soldier Field,Chicago,IL,60605,61500,True,False,41.87029694197802,-87.62691931956044
+4,CIN,Cincinnati Bengals,3874,Paycor Stadium,Cincinnati,OH,45202,65515,False,False,54.8737682,23.9373382
+5,CLE,Cleveland Browns,3679,Cleveland Browns Stadium,Cleveland,OH,44114,67431,True,False,41.50615907683215,-81.68096072624114
+6,DAL,Dallas Cowboys,3687,AT&T Stadium,Arlington,TX,76011,100000,False,True,41.23728806285715,16.50728716
+7,DEN,Denver Broncos,3937,Empower Field at Mile High,Denver,CO,80204,76125,True,False,39.73490818177997,-105.02576222527024
+8,DET,Detroit Lions,3727,Ford Field,Detroit,MI,48226,64500,False,True,54.92391333333334,23.881970033333335
+9,GB,Green Bay Packers,3798,Lambeau Field,Green Bay,WI,54304,81041,True,False,44.50002035041186,-88.06641305848436
+10,TEN,Tennessee Titans,3810,Nissan Stadium,Nashville,TN,37213,69143,True,False,51.3413483,9.852073986577237
+11,IND,Indianapolis Colts,3812,Lucas Oil Stadium,Indianapolis,IN,46225,63000,False,True,39.742636147756144,-86.15708834298617
+12,KC,Kansas City Chiefs,3622,GEHA Field at Arrowhead Stadium,Kansas City,MO,64129,72936,True,False,39.04597513213115,-94.49768449114754
+13,LV,Las Vegas Raiders,6501,Allegiant Stadium,Las Vegas,NV,89118,65000,True,True,36.08381093012048,-115.21413716024097
+14,LAR,Los Angeles Rams,477,Los Angeles Memorial Coliseum,Los Angeles,CA,90037,77500,True,False,37.99841501666667,13.286292783333332
+15,MIA,Miami Dolphins,3948,Hard Rock Stadium,Miami Gardens,FL,33056,64767,True,False,24.9959921,121.2906463
+16,MIN,Minnesota Vikings,5239,U.S. Bank Stadium,Minneapolis,MN,55415,66468,False,True,44.975928851086955,-93.25934043586956
+17,NE,New England Patriots,3738,Gillette Stadium,Foxboro,MA,2035,65878,False,False,10.0707876,-68.13855170383499
+18,NO,New Orleans Saints,3493,Caesars Superdome,New Orleans,LA,70112,73000,False,True,-3.32777945,114.5809563
+19,NYG,New York Giants,3839,MetLife Stadium,East Rutherford,NJ,7073,82500,False,False,47.8328352,16.6668499
+19,NYG,New York Giants,3839,MetLife Stadium,East Rutherford,NJ,7073,82500,False,False,47.8328352,16.6668499
+20,NYJ,New York Jets,3839,MetLife Stadium,East Rutherford,NJ,7073,82500,False,False,47.8328352,16.6668499
+20,NYJ,New York Jets,3839,MetLife Stadium,East Rutherford,NJ,7073,82500,False,False,47.8328352,16.6668499
+21,PHI,Philadelphia Eagles,3806,Lincoln Financial Field,Philadelphia,PA,19148,69879,True,False,39.91918229863248,-75.15770335264956
+22,ARI,Arizona Cardinals,3970,State Farm Stadium,Glendale,AZ,85305,65000,True,True,48.4366533,11.414636217740245
+23,PIT,Pittsburgh Steelers,3752,Acrisure Stadium,Pittsburgh,PA,15212,68400,True,False,44.8669653,19.710206
+24,LAC,Los Angeles Chargers,538,Dignity Health Sports Park,Carson,CA,90746,27000,False,False,33.86126350599174,-118.25712453078513
+25,SF,San Francisco 49ers,4738,Levi's Stadium,Santa Clara,CA,95054,68500,True,False,37.38743902121848,-121.96944016218488
+26,SEA,Seattle Seahawks,3673,Lumen Field,Seattle,WA,98134,68740,False,False,38.11035843636364,15.51100408181818
+27,TB,Tampa Bay Buccaneers,3886,Raymond James Stadium,Tampa,FL,33607,65828,True,False,52.02233497098092,8.565930647138964
+28,WSH,Washington Commanders,3719,FedExField,Landover,MD,20785,67617,True,False,38.91466939873171,-76.88323352041685
+29,CAR,Carolina Panthers,3628,Bank of America Stadium,Charlotte,NC,28202,73778,True,False,35.227618013333334,-80.8423592072
+30,JAX,Jacksonville Jaguars,3712,TIAA Bank Field,Jacksonville,FL,32202,67858,True,False,30.32910428360951,-81.65285396559798
+33,BAL,Baltimore Ravens,3814,M&T Bank Stadium,Baltimore,MD,21230,70745,True,False,47.13131573492063,4.494797598412698
+34,HOU,Houston Texans,3891,NRG Stadium,Houston,TX,77054,71995,False,True,29.686531920080323,-95.3840095815261
