@@ -142,7 +142,7 @@ function teamCharts(teamName) {
 
 // ------- STATISTICS DATA ------- //
 // Get the data
-const stats = "../data/Outputs_JSON/stats.json";
+const stats = "../static/data/Outputs_JSON/stats.json";
 function statCharts(teamName) {
 
     // Use D3 to retrieve all data
