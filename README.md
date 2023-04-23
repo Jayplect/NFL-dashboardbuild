@@ -1,5 +1,4 @@
-# Touchdown Insights: A Data-Driven NFL Dashboard![image](https://user-images.githubusercontent.com/107348074/233818290-f07c3dbe-ab2c-4a10-8307-2e5db42f972f.png)
-
+# Touchdown Insights: A Data-Driven NFL Dashboard
 
 Build a dashboard that provides insights into the performance of a sports team or league. Use data from SportsReference, and then use ETL and JavaScript to create visualizations that display statistics such as wins and losses, player performance, and team rankings.
 
