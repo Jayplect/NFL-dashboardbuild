@@ -1,15 +1,13 @@
 # Touchdown Insights: A Data-Driven NFL Dashboard
 
-## Introduction
+## Contributions
 
-This project is created as part of the Data Analytics Boot Camp at University of Toronto.     
-Following are the team members:
+This project was created by the following team members:
 
 - Jacob Evans
 - Sara Parveen
 - Lailah Libay
 - Gus Mendes
-
 
 
 ## Web Links:
@@ -125,9 +123,6 @@ In order to deploy the dashboard to web, we created a Python Flask application. 
 After developing the Flask app, we deployed it to AWS. It is also deployed to GitHub Pages. Following are the links to access it on AWS and GitHub:
 
 - https://flask-service.ofeg1bv1af188.ca-central-1.cs.amazonlightsail.com/index.html
-
-- https://gusmendesbh.github.io/project3-group1/index.html
-
 
 ## Conclusion
 
