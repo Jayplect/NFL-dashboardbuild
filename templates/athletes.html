@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>NFL Dashboard</title>
+
+    <!-- Custom fonts for this template-->
+    <link href="../static/all.min.css" rel="stylesheet" type="text/css">
+    <link
+        href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+        rel="stylesheet">
+
+    <!-- Custom styles for this template-->
+    <link href="../static/sb-admin-2.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+    <!-- Page Wrapper -->
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <ul  class="navbar-nav sidebar sidebar-dark accordion" style="background-color: #d50a0a;" id="accordionSidebar">
+
+            <!-- Sidebar - Brand -->
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="../index.html">
+                <div class="sidebar-brand-icon rotate-n-15">
+                    <i class="fas fa-football-ball" style="color: #013369;"></i>
+                </div>
+                <div class="sidebar-brand-text mx-3">NFL</div>
+            </a>
+
+            <!-- Divider -->
+            <hr class="sidebar-divider my-0">
+
+            <!-- Nav Item - Dashboard -->
+            <li class="nav-item active">
+                <a class="nav-link" href="../index.html">
+                    <i class="fas fa-fw fa-tachometer-alt"></i>
+                    <span>Back to Main Dashboard</span></a>
+            </li>
+
+            <!-- Divider -->
+            <hr class="sidebar-divider">
+
+            <!-- Heading -->
+            <div class="sidebar-heading">
+                Interface
+            </div>
+            
+            <!-- Dropdown Menu -->
+            <div class="bg-blue py-2 text-white p-3">
+            
+                <h5><i class="fas fa-clipboard-list"></i> Athletes:</h5>
+                <select style="width: 150px" id="selPlayer" onchange="playerOptionChanged(this.value)"></select>
+            </div>
+        </ul>
+        <!-- End of Sidebar -->
+
+        <!-- Content Wrapper -->
+        <div id="content-wrapper" class="d-flex flex-column">
+
+            <!-- Main Content -->
+            <div id="content" style='background-color:#013369'>
+              <!-- Begin Page Content -->
+                <div class="container-fluid">
+
+                    <!-- Page Heading -->
+                    <div class="d-sm-flex align-items-center justify-content-between  mt-3 mb-9">
+                        <h1 class="h1 mb-3" style="color: white;">NFL 2021/2022 DASHBOARD</h1>
+                    </div>
+
+                    <!-- Content Row -->
+                    <div class="row">
+                    
+                        <!-- Earnings (Monthly) Card Example -->
+                        <div class="col-xl-3 col-md-6 mb-4">
+                            <div class="card border-left-primary shadow h-100 py-2">
+                                <div class="card-body">
+                                    <div class="row no-gutters align-items-center">
+                                        <div class="col mr-2">
+                                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
+                                                Number of Teams in Season 22</div>
+                                            <div class="h5 mb-0 font-weight-bold" style="color: #013369">32 Teams</div>
+                                        </div>
+                                        <div class="col-auto">
+                                            <i class="fas fa-bezier-curve fa-2x" style="color: #d50a0a;"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Earnings (Monthly) Card Example -->
+                        <div class="col-xl-3 col-md-6 mb-4">
+                            <div class="card border-left-primary shadow h-100 py-2">
+                                <div class="card-body">
+                                    <div class="row no-gutters align-items-center">
+                                        <div class="col mr-2">
+                                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
+                                                Number of Active Players</div>
+                                            <div class="h5 mb-0 font-weight-bold" style="color: #013369">2086 Active Players</div>
+                                        </div>
+                                        <div class="col-auto">
+                                            <i class="fas fa-chess-knight fa-2x" style="color: #d50a0a;"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Earnings (Monthly) Card Example -->
+                        <div class="col-xl-3 col-md-6 mb-4">
+                            <div class="card border-left-primary shadow h-100 py-2">
+                                <div class="card-body">
+                                    <div class="row no-gutters align-items-center">
+                                        <div class="col mr-2">
+                                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
+                                                Number of Games Played
+                                            </div>
+                                            <div class="row no-gutters align-items-center">
+                                                <div class="col-auto">
+                                                    <div class="h5 mb-0 mr-3 font-weight-bold" style="color: #013369">
+                                                        285 Games</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-auto">
+                                            <i class="fas fa-tasks fa-2x" style="color: #d50a0a;"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Pending Requests Card Example -->
+                        <div class="col-xl-3 col-md-6 mb-4">
+                            <div class="card border-left-primary shadow h-100 py-2">
+                                <div class="card-body">
+                                    <div class="row no-gutters align-items-center">
+                                        <div class="col mr-2">
+                                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
+                                                Winner of The Season</div>
+                                            <div class="h5 mb-0 font-weight-bold" style="color: #013369">Kansas City
+                                                Chiefs</div>
+                                        </div>
+                                        <div class="col-auto">
+                                            <i class="fas fa-trophy	 fa-2x" style="color: #d50a0a;"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                                        <!-- Content Row -->
+                    <div class="row">            
+                        <div class="justify-content-center col-xl-3 col-lg-2.5 mb-5">
+                        
+                            <!-- Illustrations -->
+                            <div class="card shadow mb-4">
+                                <div class="card-header py-3">
+                                    <h6 class="m-0 font-weight-bold text-primary">Athlete Headshot</h6>
+                                </div>
+                                <div class="card-body">
+                                    <div class="chart-map" style="height: 435px">
+                                        <div id="player-logo" class="pt-4 align-middle text-center" ></div>
+                                    </div>                    
+                                </div>
+                            </div>                    
+                        </div>
+
+                        <!-- Area Chart -->
+                        <div class="justify-content-center col-xl-3 col-lg-2.5 mb-5">
+                            <div class="card shadow mb-4">
+
+                                <!-- Card Headern -->
+                                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                                    <h6 class="m-0 font-weight-bold text-primary">Athlete Details</h6>
+                                </div>
+
+                                <!-- Card Body -->
+                                <div class="card-body">
+                                    <div class="chart-map pt-4 pb-2" style="height: 435px">
+                                        <div class="chart-map align-middle text-center " style="color: #013369;" id="player-chart1"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+                        <div class="col-lg-6 mb-4">
+                        
+                            <!-- Project Card Example -->
+                            <div class="card shadow mb-4">
+                                <div class="card-header py-3">
+                                    <h6 class="m-0 font-weight-bold text-primary">Athletes Height and Weight Comparison</h6>
+                                </div>
+                                <div class="card-body">
+                                    <div class="chart-map pt-4 pb-2">
+                                        <div id="player-chart3"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-lg-12 mb-5">
+                    
+                            <!-- Illustrations -->
+                            <div class="card shadow mb-4">
+                                <div class="card-header py-3">
+                                    <h6 class="m-0 font-weight-bold text-primary">Athletes Age and Experience Comparison</h6>
+                                </div>
+                                <div class="card-body">
+                                    <div class="chart-map pt-4 pb-2">
+                                        <div id="player-chart4"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+
+                </div>
+                <!-- /.container-fluid -->
+
+            </div>
+            <!-- End of Main Content -->
+
+    <!-- Bootstrap core JavaScript-->
+    <script src="../static/jquery.min.js"></script>
+    <script src="../static/bootstrap.bundle.min.js"></script>
+
+    <!-- Core plugin JavaScript-->
+    <script src="../static/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for all pages-->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="../static/athletes.js"></script>
+
+    <!-- highcharts scripts -->
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+    <script src="https://code.highcharts.com/modules/data.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    
+
+</body>
+
+</html>
