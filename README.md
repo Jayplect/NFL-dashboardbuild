@@ -5,10 +5,11 @@
 This project is created as part of the Data Analytics Boot Camp at University of Toronto.     
 Following are the team members:
 
+- Jacob Evans
 - Sara Parveen
 - Lailah Libay
 - Gus Mendes
-- Jacob Evans
+
 
 
 ## Web Links:
