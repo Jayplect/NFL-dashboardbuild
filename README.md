@@ -97,12 +97,7 @@ An ERD is created for the databse using [QuickDBD](https://www.quickdatabasediag
 
 ![NFL_ERD](sql/ERD/NFL_ERD.png)
 
-An SQL database is then created using SQL, specifically PostgreSQL to load the data for easy retrieval and manipulation. The CSV files were imported into the tables created in the SQL. Following are some screenshots showing tables in SQL:
-
-![Teams SQL](data/Images/Image13.PNG)
-
-![Stats SQL](data/Images/Image14.PNG)
-
+An SQL database is then created using SQL, specifically PostgreSQL to load the data for easy retrieval and manipulation. The CSV files were imported into the tables created in the SQL. 
 
 ### **Step 3: Create the HTML/CSS**
 
@@ -117,36 +112,8 @@ Three [JavaScript files](js/) are developed to create visualizations for the das
 
 - The Main dashboard has visualizations created using [D3](https://d3js.org/) and [Leaflet](https://leafletjs.com/) library. The interactive map was created data extracted from GeoPy mainly.  
 
-Following are some screenshots of the **Main dashboard**:
-
-![High level stats](data/Images/Image4.PNG)
-
-![Interactive Teams Venue Map](data/Images/Image5.PNG)
-
-
 - The Teams and Athletes dasboards have visualizations created using [D3](https://d3js.org/) and [Highcharts](https://www.highcharts.com/). **Highcharts** is a new JS library which was not covered during class.     
 
-Following are some screenshots of the **Teams dashboard**:
-
-![Team Log, Details, and Win-Loss Metrics](data/Images/Image6.PNG)
-
-![Zoomable map showing Home vs. Away Team Scores](data/Images/Image7.PNG)
-
-![Zoomable map showing Attempts & Drives for Home vs. Away Team](data/Images/Image8.PNG)
-
-![Zoomable map showing Passing & Rushing Yards for Home vs. Away Team](data/Images/Image9.PNG)
-
-
-Following are some screenshots of the **Athletes dashboard**:
-
-![Athlete Headshot and high-level details](data/Images/Image10.PNG)
-
-![Athletes Height vs. Weight](data/Images/Image11.PNG)
-
-![Athletes Age vs. Experience](data/Images/Image12.PNG)
-
-
-The visualizations are customized by adding features such as labels, legends, tooltips, and interactivity.
 
 ### **Step 5: Setup the Python Flask app**
 
