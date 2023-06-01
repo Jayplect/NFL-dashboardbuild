@@ -33,20 +33,20 @@ The interactive dashboard has three views:
 
     This view is the default view that loads when the dashboard is launched. It displays a static view of some key details of the 2022 game and an interactive map plotting team venues.
 
-    ![Main Dashboard](data/Images/Image1.PNG)
+    <img width="715" alt="image" src="https://github.com/Jayplect/dashboardbuild/assets/107348074/a049372c-7e41-4971-be11-8b6d53cacbba">
+
 
 2. **Teams Dashboard**
 
     The Teams view has a drodown containing list of all the teams that played in the 2022 season. The dashboard displays team logo, basic team data and results metrics for 2022. It also includes three additional visualizations displaying scores, yards and attempts statistics from 2002 to 2023. The dashboard updates every time a different team is selected from the dropdown.
 
-    ![Teams Dashboard](data/Images/Image2.PNG)
+   <img width="702" alt="image" src="https://github.com/Jayplect/dashboardbuild/assets/107348074/6ce131c6-5e75-4e20-8676-5041231e6d8c">
 
 3. **Athletes Dashboard**
 
     The Athletes view has a drodown containing list of all the athletes that played in the 2022 season. The dashboard displays athletes's headshot and their demographic information which update every time a different athlete is selected from the dropdown. This view also includes two charts showing Height Vs. Weight, and Age vs. Experience statistics of all athletes which remain static.
 
-    ![Athletes Dashboard](data/Images/Image3.PNG)
-
+    <img width="700" alt="image" src="https://github.com/Jayplect/dashboardbuild/assets/107348074/bfa9abea-b620-4bdd-8e82-c97686d4fb3c">
 
 ## Data Sources
 
