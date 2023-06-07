@@ -72,7 +72,7 @@ Following are some other data sources which were consulted and reviewed to get i
 
 ## Project Workflow
 
-The team members collaborated on different steps of the project to optimize the workflow. Some steps were completed by working together and the others were assigned to each teammate to make best use of teh available resources and time.
+The team members collaborated on different steps of the project to optimize the workflow. Some steps were completed by working together and the others were assigned to each teammate to make best use of the available resources and time.
 
 Following are some of the key steps that were involved in building the dashboard:
 
